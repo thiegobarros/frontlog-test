@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/frontlog-test/static/css/main.eded6b9e.css",
+    "main.js": "/frontlog-test/static/js/main.8d7f239a.js",
+    "static/js/787.6a8ffcdc.chunk.js": "/frontlog-test/static/js/787.6a8ffcdc.chunk.js",
+    "index.html": "/frontlog-test/index.html",
+    "main.eded6b9e.css.map": "/frontlog-test/static/css/main.eded6b9e.css.map",
+    "main.8d7f239a.js.map": "/frontlog-test/static/js/main.8d7f239a.js.map",
+    "787.6a8ffcdc.chunk.js.map": "/frontlog-test/static/js/787.6a8ffcdc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eded6b9e.css",
+    "static/js/main.8d7f239a.js"
+  ]
+}
